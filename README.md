@@ -7,4 +7,4 @@ Aprendendo sobre repositorio.
 Trabalhando com branchs.        	    
 
 ## Modelos:
-_endendo que é **git, Aprendendo sobre **repositorio**, Trabalhando com **branches**_
+_endendo que é **git**, Aprendendo sobre **repositorio**, Trabalhando com **branches**_
